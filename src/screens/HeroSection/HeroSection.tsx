@@ -26,9 +26,9 @@ export const HeroSection = (): JSX.Element => {
       <header className="items-center gap-[221px] flex-[0_0_auto] inline-flex relative z-10">
         <div className="items-center gap-[287px] flex-[0_0_auto] inline-flex relative">
           <div className="relative w-fit mt-[-1.00px] [font-family:'Creato_Display-Medium',Helvetica] font-medium text-primary-white text-[32px] tracking-[0] leading-[normal] whitespace-nowrap">
-            <span className="text-white">Ze</span>
+            <span className="text-white">Lo</span>
             <span className="text-[#2dca72]">b</span>
-            <span className="text-white">ra</span>
+            <span className="text-white">rem</span>
           </div>
 
           <NavigationMenu>
